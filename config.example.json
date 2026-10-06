@@ -1,0 +1,8 @@
+{
+  "source_glob": "/www/server/panel/vhost/letsencrypt/*.example.com",
+  "dsm_url": "https://nas.example.com:5001",
+  "username": "请填写群晖管理员用户名",
+  "password": "请填写群晖管理员密码",
+  "certificate_desc": "请填写群晖中现有证书的描述",
+  "verify_tls": true
+}
